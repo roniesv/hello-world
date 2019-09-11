@@ -1,3 +1,9 @@
+# hello- world
+Hi people
+Ronie here,
+I want trilhaer a carrer the programming.
+I am committed to learning programming, I want to use programming to express myself via software
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
