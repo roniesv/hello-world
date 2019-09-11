@@ -1,5 +1,5 @@
-#Hello Wordl
-Pequena mudanaça no branch
+# Hello World
+Pequena mudança no branch
 
 # Welcome to GitHub
 
